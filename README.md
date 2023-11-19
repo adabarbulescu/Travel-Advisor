@@ -2,6 +2,9 @@
 
 Travel Advisor is a web application built using React and Material-UI that helps users explore various places, including restaurants and tourist attractions, utilizing Google Maps integration and TripAdvisor data.
 
+## Live Demo
+Check out the live demo [here](https://travel-advisor-rha.netlify.app/).
+
 ## Key Features
 - **Interactive Map View:** Users can view locations on an interactive map powered by Google Maps, with markers indicating various places of interest.
 - **Place Details:** Detailed information about each place, including ratings, reviews, pricing, and contact details, providing users with essential insights.
